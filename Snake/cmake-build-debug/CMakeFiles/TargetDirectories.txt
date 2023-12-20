@@ -1,0 +1,5 @@
+/home/robert12/Documents/Snake/cmake-build-debug/CMakeFiles/Snake.dir
+/home/robert12/Documents/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/robert12/Documents/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/robert12/Documents/Snake/cmake-build-debug/CMakeFiles/Snake_autogen_timestamp_deps.dir
+/home/robert12/Documents/Snake/cmake-build-debug/CMakeFiles/Snake_autogen.dir
